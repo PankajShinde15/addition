@@ -1,5 +1,5 @@
 {
-  "name": "addition",
+  "name": "simple-addition",
   "version": "1.0.0",
   "description": "A tiny npm package that adds two numbers.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "math",
     "sum"
   ],
-  "author": "",
+  "author": "Pankaj Shinde",
   "license": "MIT",
   "type": "commonjs"
 }

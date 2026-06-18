@@ -1,17 +1,17 @@
-# addition
+# simple-addition
 
 Tiny npm package for adding two numbers.
 
 ## Install
 
 ```bash
-npm install addition
+npm install simple-addition
 ```
 
 ## Usage
 
 ```js
-const { add } = require('addition');
+const { add } = require('simple-addition');
 
 console.log(add(2, 3)); // 5
 ```
