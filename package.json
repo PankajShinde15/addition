@@ -1,0 +1,17 @@
+{
+  "name": "addition",
+  "version": "1.0.0",
+  "description": "A tiny npm package that adds two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "addition",
+    "math",
+    "sum"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
